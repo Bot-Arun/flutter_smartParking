@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+The smart parking application works in the following steps. The user first registers with his/her vehicle plate number using the organisation credentials.
+
+Then he gets assigned with the free parking spaces which is sent in the form of notification. The detection of the parking spaces and the verification of the registered user's number plate is done through the deep learning algorithms.
